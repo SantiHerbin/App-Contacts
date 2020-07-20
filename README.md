@@ -10,6 +10,8 @@ Python3
 Flask
 MySQL
 
+Antes de arrancar el proyecto tienes que iniciar iniciar Mysql y Apache, Puedes hacerlo con el XAMPP Control Panel.
+
 Para Arrancar el Proyecto:
 
 
